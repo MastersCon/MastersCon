@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: About Me :
-Jr . Angular web Develop 🌐, Semi-Senior Wordpress Web Develop.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Dominican Republic. 
+Jr . Angular Web Developer 🌐, Semi-Senior Wordpress Web Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Dominican Republic. 
 <img src="https://media.giphy.com/media/3oEjHFeXnb0kdb32Ny/giphy.gif" width="40">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
