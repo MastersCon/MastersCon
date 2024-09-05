@@ -15,7 +15,8 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=MastersCon &style=flat-square&color=blue" alt="counter-view"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MastersCon&abbreviated=true" &style=flat-square&color=blue" alt="counter-view"/>
 </div>
 <h1>
   <div align="center">
@@ -46,6 +47,8 @@ Jr . Angular Web Developer 🌐, Semi-Senior Wordpress Web Developer.<img src="h
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="60" height="60/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
